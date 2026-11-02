@@ -7,7 +7,7 @@ Department :Computer Science
 Course: COS 201 -COMPUTER PROGRAMMING 1 
 
 Repository Link:
-http://github.com/aishatoyewole42-crypto/COS-102--COMPUTER PROGRAMMING
+http://github.com/aishatoyewole42-crypto/COS-102--COMPUTER-PROGRAMMING-
 
 Respository Structure :
 
